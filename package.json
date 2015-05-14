@@ -1,6 +1,6 @@
 {
   "name": "tunl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Securely proxy remote ports to local ports with SSH.",
   "main": "index.js",
   "bin": {
