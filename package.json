@@ -1,0 +1,17 @@
+{
+  "name": "tunl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./cmd",
+  "files": [
+    "cmd.js",
+    "index.js"
+  ],
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "rc": "^1.0.1",
+    "ssh2": "^0.4.8"
+  }
+}

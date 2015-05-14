@@ -1,0 +1,1 @@
+tunl --map.2000 2000 --map.9998 9999 --map.35728 35729 --ssh.username ubuntu --ssh.host example.com --ssh.key myKey.pem

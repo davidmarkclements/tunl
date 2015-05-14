@@ -1,0 +1,12 @@
+var tunl = require('tunl');
+
+tunl({
+  map: {
+    80: 8080
+  },
+  ssh: {
+    host: 'example.com',
+    username: 'joe',
+    key: 'path/to/key.pem'
+  }
+});
