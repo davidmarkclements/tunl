@@ -35,5 +35,7 @@ module.exports = function (opts) {
 
   client.connect(opts.ssh)
 
+  return client
+
 }
 
